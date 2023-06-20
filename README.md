@@ -38,5 +38,5 @@ Screenshots: ![Neighbourhoodlibrary](public/img/screencapture-127-0-0-1-5501-ind
 
 ## Links
 
-- GitHub repository URL: https://github.com/cherah-petra/NeighbourhoodLibrary
+- GitHub repository URL: [https://github.com/cherah-petra/NeighbourhoodLibrary](https://github.com/boro101094/neighbourhood-library)
 - Heroku Page: https://neighbourhood-library-65950eb0f456.herokuapp.com/
